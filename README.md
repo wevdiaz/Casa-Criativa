@@ -15,7 +15,7 @@ Essa aplicação visa criar idéias para serem realizadas durante o período de 
 
 * Express
 
-* SQlite 3
+* SQlite 
 
 ***
 
@@ -33,4 +33,15 @@ Essa aplicação visa criar idéias para serem realizadas durante o período de 
 ![página idéias](https://raw.githubusercontent.com/wevdiaz/Casa-Criativa/master/images/ideias_casacriativa.png)
 
                                       Idéias
+                                      
+***
 
+### Requesito :gear:
+
+* *npm install express*
+
+* *npm start -- para rodar* 
+
+***
+
+Desenvolvido com :blue_heart:    .  por **Diazz** :technologist:
