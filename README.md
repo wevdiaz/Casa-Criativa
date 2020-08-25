@@ -36,12 +36,20 @@ Essa aplicação visa criar idéias para serem realizadas durante o período de 
                                       
 ***
 
-### Requesito :gear:
+### Requesitos :gear:
 
-* *npm install express*
+Para verificação da aplicação é necessário instalação dos programas abaixo:
 
-* *npm start -- para rodar* 
+*  **Node js** e **NPM**
+1. *npm install* - Instalar as dependências do projeto.
+1. *npm start* - Para rodar a aplicação.
 
 ***
+
+#### Licença :scroll:
+ 
+ Este projeto está com a licença MIT. Veja o arquivo de [LICENSE](https://github.com/wevdiaz/NLW-Ecoleta/blob/master/LICENSE) para mais destalhe.
+ 
+ ***
 
 Desenvolvido com :blue_heart:    .  por **Diazz** :technologist:
