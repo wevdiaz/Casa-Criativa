@@ -1,5 +1,30 @@
 ![logo casa criativa](https://raw.githubusercontent.com/wevdiaz/Casa-Criativa/master/public/image/logo_casacriativa.png)
 
+<p align="center">
+  
+  <a>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/wevdiaz/Casa-Criativa?color=%23FF0099">
+  </a>
+  
+  <a>
+    <img alt="GitHub" src="https://img.shields.io/github/license/wevdiaz/Casa-Criativa?color=%23FF0099">
+  </a>
+  
+  <a>
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wevdiaz/Casa-Criativa?color=%23FF0099">
+  </a>
+  
+  <a>
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wevdiaz/Casa-Criativa?color=%23FF0099">
+  </a>
+  
+  <a>
+  <img alt="Made by" src="https://img.shields.io/badge/made%20by-Diazz-DOA?color=%23FF0099">
+ </a>
+  
+  
+</p>
+
 # Casa Criativa
 
 Este projeto realizado durante uma maratona de desenvolvimento da [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg):rocket:  
