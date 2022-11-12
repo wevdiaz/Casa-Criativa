@@ -61,7 +61,7 @@ Essa aplicação visa criar idéias para serem realizadas durante o período de 
                                       
 ***
 
-### Requesitos :gear:
+### Requisitos :gear:
 
 Para verificação da aplicação é necessário instalação dos programas abaixo:
 
